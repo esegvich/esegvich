@@ -20,23 +20,6 @@
 
 -  Fun fact **I'm a coffee enthusiast who enjoys experimenting with espresso and latte art when I'm not building tech projects.**
 
-## Featured Projects
-
-**Hybrid Identity Lab**<br>
-On-prem Active Directory synced to Microsoft Entra ID and then provisioned into Okta. Covers attribute mapping, user lifecycle provisioning, and access policies, which is basically the identity plumbing most companies are running whether they know it or not.
-
-**Phishing Analysis Agent (SecurityAgent)**<br>
-A Discord bot that takes a suspicious email, pulls out the URLs, attachments, and headers, and checks them against VirusTotal so triage takes seconds instead of a pile of browser tabs. Next up: a threat intel aggregator that pulls from multiple feeds.
-
-**Splunk Log Analysis**<br>
-Investigations into suspicious authentication activity: SSH brute-force attempts, failed-login spikes, and figuring out which ones actually matter.
-
-**Azure Hands-On Labs**<br>
-Practical work with Azure networking, VMs, and core services, done alongside AZ-900 prep so the concepts aren't just flashcards.
-
-**Home Lab**<br>
-Raspberry Pi running Pi-hole for network-wide DNS filtering and WireGuard for remote access. Getting the VPN working through a mesh network turned into a good lesson in isolating one layer at a time until the problem shows itself.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/esegvich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="esegvich" height="30" width="40" /></a>
